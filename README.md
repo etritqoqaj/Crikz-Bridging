@@ -1,22 +1,34 @@
-# \# Crikz Bridge — The Final Trustless Native-Asset Bridge
+###### \# Crikz Bridge – Trustless Native-Asset Bridge
 
-# 
+###### 
 
-# Zero relayers • SP1 zkVM proves solvency every 10 s • Real native ETH/BTC/SOL on any chain  
+###### Zero-relayer cross-chain liquidity protocol that enables true native asset transfers (ETH, BTC, SOL, etc.) across 100+ EVM and non-EVM chains using continuous SP1 zkVM solvency proofs.
 
-# 100% open-source • MIT license • No token • No paywall • No bullshit
+###### 
 
-# 
+###### \## Key Features
 
-# \## One command to see everything work
+###### \- Real native issuance – no wrappers or synthetic tokens
 
-# ```bash
+###### \- Solvency proven on-chain every ~10 seconds via Succinct SP1 zkVM
 
-# git clone https://github.com/CrikzDev/Crikz-Bridge.git
+###### \- User-chosen economic finality (Ethereum L1, zkSync Era, Celestia DA, Babylon Bitcoin)
 
-# cd Crikz-Bridge
+###### \- Idle collateral restaked to sustainably fund the decentralized prover network
 
-# npm install
+###### \- Reentrancy-protected, pauseable, quantum-resistant design
 
-# npx hardhat run scripts/deploy-and-test.ts
+###### 
+
+###### \## Quick Start
+
+###### ```bash
+
+###### git clone https://github.com/CrikzDev/Crikz-Bridge.git
+
+###### cd Crikz-Bridge
+
+###### npm install
+
+###### npx hardhat run scripts/deploy-and-test.ts
 
