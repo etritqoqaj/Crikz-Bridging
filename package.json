@@ -1,0 +1,11 @@
+{
+  "name": "crikz-bridge",
+  "version": "1.0.0",
+  "scripts": {
+    "demo": "npx hardhat run scripts/deploy-and-test.ts"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.10",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
