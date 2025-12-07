@@ -24,7 +24,7 @@
 
 ###### ```bash
 
-###### git clone https://github.com/CrikzDev/Crikz-Bridge.git
+###### git clone https://github.com/etritqoqaj/Crikz-Bridging
 
 ###### cd Crikz-Bridge
 
